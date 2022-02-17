@@ -1,8 +1,14 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/censusgeocode-example/HEAD?labpath=geocode_latlong.ipynb)
+
 # censusgeocode-example
 
 A simple example of how to use `censusgeocode` to enrich address/location data.
 
 ## Set up
+
+To run this on your browswer just click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/censusgeocode-example/HEAD?labpath=geocode_latlong.ipynb)
+
+**To run this locally**
 
 Clone this repo locally running
 ```shell
